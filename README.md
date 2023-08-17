@@ -1,7 +1,6 @@
-<img align="center" src="header-img.jpg" alt="header" height="70%"/>
-<br/>
+<img align="center" src="header-img.jpg" alt="header"/>
+
 <hr/>
-<br/>
 
 - 🔭 I’m currently studing **Software Engineering** @ALX
 
