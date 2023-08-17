@@ -5,13 +5,13 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h2> - 🔭 I’m currently studing **Software Engineering** with @ALX </h2>
+<h4> - 🔭 I’m currently studing **Software Engineering** with @ALX </h4>
 
-<h2> - 🌱 I’m interesting in **backend** and **machine learning** </h2>
+<h4> - 🌱 I’m interesting in **backend** and **machine learning** </h4>
 
-<h2> - 💬 Ask me about **Python C Linux** </h2>
+<h4> - 💬 Ask me about **Python C Linux** </h4>
 
-<h2> - 📫 How to reach me: **mostafamfelmasry@outlook.com** </h2>
+<h4> - 📫 How to reach me: **mostafamfelmasry@outlook.com** </h4>
 <br>
 <div align="center">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
