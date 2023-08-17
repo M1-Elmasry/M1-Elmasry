@@ -2,9 +2,6 @@
 <br/>
 <hr/>
 <br/>
-
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 - 🔭 I’m currently studing **Software Engineering** @ALX
 
 - 🌱 I’m interesting in **backend** and **machine learning**
