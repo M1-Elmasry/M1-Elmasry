@@ -5,14 +5,14 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h4> - 🔭 I’m currently studing **Software Engineering** with @ALX </h4>
+<h4> - 🔭 I’m currently studing <bold>Software Engineering</bold> with @ALX </h4>
 
-<h4> - 🌱 I’m interesting in **backend** and **machine learning** </h4>
+<h4> - 🌱 I’m interesting in <bold>backend</bold> and <bold>machine learning</bold> </h4>
 
-<h4> - 💬 Ask me about **Python C Linux** </h4>
+<h4> - 💬 Ask me about <bold>Python C Linux</bold> </h4>
 
-<h4> - 📫 How to reach me: **mostafamfelmasry@outlook.com** </h4>
-<br>
+<h4> - 📫 How to reach me: <bold>mostafamfelmasry@outlook.com</bold> </h4>
+<br><br><br>
 <div align="center">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash" width="40" height="40"/> </a>
