@@ -3,15 +3,15 @@
 <hr/>
 <br/>
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### - 🔭 I’m currently studing Software Engineering with @ALX
+- 🔭 I’m currently studing **Software Engineering** @ALX
 
-### - 🌱 I’m interesting in backend and machine learning
+- 🌱 I’m interesting in **backend** and **machine learning**
 
-### - 💬 Ask me about Python C Linux
+- 💬 Ask me about **Python C Linux**
 
-### - 📫 How to reach me: mostafamfelmasry@outlook.com
+- 📫 How to reach me: mostafamfelmasry@outlook.com
 <br><br><br>
 <div align="center">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
