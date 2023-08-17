@@ -1,4 +1,4 @@
-<img align="center" src="header.jpg" alt="header" height="70%"/>
+<img align="center" src="header-img.jpg" alt="header" height="70%"/>
 <br/>
 <hr/>
 <br/>
