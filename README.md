@@ -1,4 +1,4 @@
-<img align="center" src="header.jpg" alt="header"/>
+<img align="center" src="header.jpg" alt="header" height="70%" width="70%"/>
 <!--
 **M1-Elmasry/M1-Elmasry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
