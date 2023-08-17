@@ -3,7 +3,7 @@
 <hr/>
 <br/>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently studing **Software Engineering** @ALX
 
@@ -11,6 +11,7 @@
 
 - 💬 Ask me about **Python C Linux**
 
+<!--
 - 📫 How to reach me: mostafamfelmasry@outlook.com
 <br><br><br>
 <div align="center">
@@ -33,3 +34,4 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
 </div>
+-->
