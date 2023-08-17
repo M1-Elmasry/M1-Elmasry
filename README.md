@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h4> - 🔭 I’m currently studing <bold>Software Engineering</bold> with @ALX </h4>
+###- 🔭 I’m currently studing **Software Engineering** with @ALX
 
 <h4> - 🌱 I’m interesting in <bold>backend</bold> and <bold>machine learning</bold> </h4>
 
