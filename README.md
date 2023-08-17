@@ -1,6 +1,4 @@
-<br>
-<p><img alt="Hello Friend!" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&color=559FFF&width=435&lines=Hello+Friend!" /></p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=559FFF&width=435&lines=Hello+Friend!)](https://git.io/typing-svg)
 <hr/>
 
 - 🔭 I’m currently studing **Software Engineering** @ALX
